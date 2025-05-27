@@ -253,4 +253,3 @@ def phasenum2phase(phaseInt, liqComp='water1'):
         return liqComp
     else:
         return phasenum2phaseDict[phaseInt]
-
